@@ -2,10 +2,10 @@
 
 
 ## Assignment1
-Developed a data pipeline to accomplish a scraping task and the goal was to ingest, process and store it into google buckets
+Developed a data pipeline to scrap, ingest, process and store the EDGAR data into google buckets
 
 ## Assignment2
-ML Pipeline to train and deploy sentiment analysis model as a service
+Built an ML Pipeline to train and deploy sentiment analysis model as a service
 
 ## Assignment3
 Data pipeline to train and benchmark multiple Synthetic data generators and then deploy them in production
