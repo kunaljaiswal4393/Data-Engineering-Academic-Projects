@@ -120,7 +120,7 @@ If everything is successful it shows an Open App button. We can now open the app
 ## Authors
 <b>[Sharvari Karnik](https://www.linkedin.com/in/sharvarikarnik25/)</b> 
 
-<b>[Kunal Jaiswal](https://www.linkedin.com/in/kunaljaiswal4393/)</b> 
+<b>[Kunal Jaiswal](https://www.linkedin.com/in/jaiswalkunal/)</b> 
 
 <b>[Jayesh Patil](https://www.linkedin.com/in/jayeshpatil130/)</b> 
 
